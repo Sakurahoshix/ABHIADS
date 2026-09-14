@@ -1,1 +1,1 @@
-channel - https://abhiads.vercel.app/
+channel - https://digitalanil0.vercel.app/
